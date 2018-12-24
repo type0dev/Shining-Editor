@@ -114,6 +114,13 @@ Public Class XC2MainForm
 
     Private Sub XC2MainForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
+        PlayerInfoEditor.BackColor = Color.Transparent
+        CharacterEditor.BackColor = Color.Transparent
+        ConsumablesEditor.BackColor = Color.Transparent
+        AspectsEditor.BackColor = Color.Transparent
+        MaterialsEditor.BackColor = Color.Transparent
+        SigilsEditor.BackColor = Color.Transparent
+
     End Sub
 
     Private Sub OnPlayerInfoEditorLoaded(sender As Object, e As EventArgs) Handles PlayerInfoEditor.Load

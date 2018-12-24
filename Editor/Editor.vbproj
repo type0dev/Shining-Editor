@@ -172,6 +172,21 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shinning.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shinning.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shinning1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shinning2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shinning3.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

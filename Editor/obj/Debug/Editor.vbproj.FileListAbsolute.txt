@@ -107,3 +107,17 @@ C:\Users\Rick Madeira\Desktop\Development\Bayo1-editor-master\Editor\obj\Debug\E
 C:\Users\Rick Madeira\Desktop\Development\Bayo1-editor-master\Editor\obj\Debug\ShiningEditor.exe
 C:\Users\Rick Madeira\Desktop\Development\Bayo1-editor-master\Editor\obj\Debug\ShiningEditor.xml
 C:\Users\Rick Madeira\Desktop\Development\Bayo1-editor-master\Editor\obj\Debug\ShiningEditor.pdb
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\bin\Debug\ShiningEditor.exe.config
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\bin\Debug\ShiningEditor.exe
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\bin\Debug\ShiningEditor.pdb
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\bin\Debug\ShiningEditor.xml
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Debug\Editor.vbprojAssemblyReference.cache
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Debug\ShiningEditor.Credits.resources
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Debug\ShiningEditor.XC2FieldTypeEditor.resources
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Debug\ShiningEditor.XC2MainForm.resources
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Debug\ShiningEditor.Resources.resources
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Debug\Editor.vbproj.GenerateResource.cache
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Debug\Editor.vbproj.CoreCompileInputs.cache
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Debug\ShiningEditor.exe
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Debug\ShiningEditor.xml
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Debug\ShiningEditor.pdb

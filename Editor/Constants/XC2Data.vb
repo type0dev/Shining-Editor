@@ -992,7 +992,9 @@ Public Class XC2Data
         {XC2DataType.Rinna, New HexDataInfo With {.Offset = &H586D4, .Size = &H4, .ToSaveFileValue = FieldConversions.FromSimpleDecimal, .ToHumanReadableValue = FieldConversions.ToSimpleDecimal}},
         {XC2DataType.Lesty, New HexDataInfo With {.Offset = &H584F4, .Size = &H4, .ToSaveFileValue = FieldConversions.FromSimpleDecimal, .ToHumanReadableValue = FieldConversions.ToSimpleDecimal}},
         {XC2DataType.Marion, New HexDataInfo With {.Offset = &H585E4, .Size = &H4, .ToSaveFileValue = FieldConversions.FromSimpleDecimal, .ToHumanReadableValue = FieldConversions.ToSimpleDecimal}},
-        {XC2DataType.Agnum, New HexDataInfo With {.Offset = &H58404, .Size = &H4, .ToSaveFileValue = FieldConversions.FromSimpleDecimal, .ToHumanReadableValue = FieldConversions.ToSimpleDecimal}}
+        {XC2DataType.Agnum, New HexDataInfo With {.Offset = &H58404, .Size = &H4, .ToSaveFileValue = FieldConversions.FromSimpleDecimal, .ToHumanReadableValue = FieldConversions.ToSimpleDecimal}},
+        {XC2DataType.Jinas, New HexDataInfo With {.Offset = &H587C4, .Size = &H4, .ToSaveFileValue = FieldConversions.FromSimpleDecimal, .ToHumanReadableValue = FieldConversions.ToSimpleDecimal}},
+        {XC2DataType.Excella, New HexDataInfo With {.Offset = &H588B4, .Size = &H4, .ToSaveFileValue = FieldConversions.FromSimpleDecimal, .ToHumanReadableValue = FieldConversions.ToSimpleDecimal}}
     }
 
 

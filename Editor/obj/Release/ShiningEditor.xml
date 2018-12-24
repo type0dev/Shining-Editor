@@ -22,6 +22,31 @@ ShiningEditor
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:ShiningEditor.My.Resources.Resources.shinning">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiningEditor.My.Resources.Resources.shinning1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiningEditor.My.Resources.Resources.shinning11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiningEditor.My.Resources.Resources.shinning2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiningEditor.My.Resources.Resources.shinning3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="T:ShiningEditor.XC2DataType">
  <summary>
  Field values present in an XC2 save file.

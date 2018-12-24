@@ -149,7 +149,9 @@ Partial Class XC2MainForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(846, 416)
+        Me.BackgroundImage = Global.ShiningEditor.My.Resources.Resources.shinning3
+        Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
+        Me.ClientSize = New System.Drawing.Size(846, 402)
         Me.Controls.Add(Me.CharacterEditor)
         Me.Controls.Add(Me.SigilsEditor)
         Me.Controls.Add(Me.AspectsEditor)
@@ -160,7 +162,7 @@ Partial Class XC2MainForm
         Me.Controls.Add(Me.SaveBtn)
         Me.Controls.Add(Me.SaveAsFileBtn)
         Me.Controls.Add(Me.OpenFileBtn)
-        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.HelpButton = True
         Me.MaximizeBox = False
         Me.Name = "XC2MainForm"

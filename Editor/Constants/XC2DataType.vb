@@ -9,6 +9,8 @@ Public Enum XC2DataType
     Lesty
     Marion
     Agnum
+    Jinas
+    Excella
     Money
     Consumable1
     Consumable2

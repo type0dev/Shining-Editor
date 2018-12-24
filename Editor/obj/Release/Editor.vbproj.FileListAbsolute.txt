@@ -26,3 +26,17 @@ C:\Users\Rick Madeira\Desktop\Development\Bayo1-editor-master\Editor\obj\Release
 C:\Users\Rick Madeira\Desktop\Development\Bayo1-editor-master\Editor\obj\Release\ShiningEditor.exe
 C:\Users\Rick Madeira\Desktop\Development\Bayo1-editor-master\Editor\obj\Release\ShiningEditor.xml
 C:\Users\Rick Madeira\Desktop\Development\Bayo1-editor-master\Editor\obj\Release\ShiningEditor.pdb
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\bin\Release\ShiningEditor.exe.config
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\bin\Release\ShiningEditor.exe
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\bin\Release\ShiningEditor.pdb
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\bin\Release\ShiningEditor.xml
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Release\Editor.vbprojAssemblyReference.cache
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Release\ShiningEditor.Credits.resources
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Release\ShiningEditor.XC2FieldTypeEditor.resources
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Release\ShiningEditor.XC2MainForm.resources
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Release\ShiningEditor.Resources.resources
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Release\Editor.vbproj.GenerateResource.cache
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Release\Editor.vbproj.CoreCompileInputs.cache
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Release\ShiningEditor.exe
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Release\ShiningEditor.xml
+C:\Users\Rick Madeira\Documents\GitHub\Shining-Editor-master\Editor\obj\Release\ShiningEditor.pdb
